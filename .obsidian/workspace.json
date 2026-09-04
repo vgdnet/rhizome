@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Читай меня.md",
+                "file": "GraphNotes/Ризома.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Читай меня"
+              "title": "Ризома"
             }
           }
         ],
@@ -215,8 +215,8 @@
   },
   "active": "a4108497da1e02ac",
   "lastOpenFiles": [
-    "GraphNotes/Ризома.md",
     "Читай меня.md",
+    "GraphNotes/Ризома.md",
     "GraphNotes/Карточка с длинным названием не входит в кружочек.md",
     "GraphNotes/GraphNotes.md",
     "источники.md",
