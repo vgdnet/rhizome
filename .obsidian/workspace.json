@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GraphNotes/Читай меня.md",
+                "file": "GraphNotes/GraphNotes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Читай меня"
+              "title": "GraphNotes"
             }
           }
         ],
@@ -215,16 +215,16 @@
   },
   "active": "a4108497da1e02ac",
   "lastOpenFiles": [
-    "GraphNotes/GraphNotes.md",
-    "GraphNotes.md",
     "GraphNotes/Читай меня.md",
+    "GraphNotes/GraphNotes.md",
+    "источники.md",
+    "GraphNotes.md",
     "GraphNotes/Карточка с длинным названием не входит в кружочек.md",
+    "Ночная проврка.md",
     "GraphNotes/Ризома.md",
     "о мамке.md",
     "GraphNotes",
     "о папке.md",
-    "Ночная проврка.md",
-    "источники.md",
     "1081_2026-02-18.md",
     "1005_2026-02-03.md",
     "Жопа для теста и автокомита в гит....md",
