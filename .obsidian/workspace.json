@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ночная проврка.md",
+                "file": "о мамке.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ночная проврка"
+              "title": "о мамке"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ночная проврка.md",
+                "file": "о мамке.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,13 +169,23 @@
               "icon": "lucide-list",
               "title": "Структура"
             }
+          },
+          {
+            "id": "06e10b37318e15ea",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,11 +201,11 @@
   },
   "active": "18b7c87734473892",
   "lastOpenFiles": [
+    "о папке.md",
     "о мамке.md",
     "Ночная проврка.md",
     "источники.md",
     "Жопа для теста и автокомита в гит....md",
-    "о папке.md",
     "1005_2026-02-03.md",
     "1081_2026-02-18.md",
     "1082_2026-02-19.md"
