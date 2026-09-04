@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GraphNotes/GraphNotes.md",
+                "file": "Читай меня.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GraphNotes"
+              "title": "Читай меня"
             }
           }
         ],
@@ -213,10 +213,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a4108497da1e02ac",
+  "active": "e69421c0b344a8ca",
   "lastOpenFiles": [
-    "GraphNotes/Читай меня.md",
     "GraphNotes/GraphNotes.md",
+    "Читай меня.md",
     "источники.md",
     "GraphNotes.md",
     "GraphNotes/Карточка с длинным названием не входит в кружочек.md",
