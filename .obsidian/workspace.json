@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a87f54974270259b",
+        "id": "854e751c3a8aabfa",
         "type": "tabs",
         "children": [
           {
-            "id": "18b7c87734473892",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GraphNotes/Читай меня.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Читай меня"
-            }
-          },
-          {
-            "id": "a4108497da1e02ac",
+            "id": "6270161e214eacfb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +21,7 @@
               "title": "Пример карточки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,14 +198,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a4108497da1e02ac",
+  "active": "6270161e214eacfb",
   "lastOpenFiles": [
-    "GraphNotes/Ризома.md",
+    "GraphNotes/GraphNotes.md",
     "GraphNotes/Пример карточки.md",
+    "ссылка_на_картинку.md",
+    "GraphNotes/Ризома.md",
     "Депрессивная позиция (Б).md",
     "вариант А — карточки/Параноидно-шизоидная позиция (А).md",
     "вариант А — карточки/Депрессивная позиция (А).md",
-    "GraphNotes/GraphNotes.md",
     "Читай меня.md",
     "источники.md",
     "GraphNotes.md",
