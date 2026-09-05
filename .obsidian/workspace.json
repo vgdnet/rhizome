@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Пример",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,8 +94,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -214,7 +213,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d9a2b81a6e83c3bf",
+  "active": "e69421c0b344a8ca",
   "lastOpenFiles": [
     "Депрессивная позиция (Б).md",
     "вариант А — карточки/Параноидно-шизоидная позиция (А).md",
