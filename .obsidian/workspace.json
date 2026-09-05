@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GraphNotes/Карточка с длинным названием не входит в кружочек.md",
+                "file": "GraphNotes/Пример карточки.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Карточка с длинным названием не входит в кружочек"
+              "title": "Пример карточки"
             }
           }
         ],
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Пример",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -213,13 +214,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a4108497da1e02ac",
+  "active": "d9a2b81a6e83c3bf",
   "lastOpenFiles": [
-    "GraphNotes/Ризома.md",
-    "GraphNotes/Карточка с длинным названием не входит в кружочек.md",
     "Депрессивная позиция (Б).md",
-    "Читай меня.md",
+    "вариант А — карточки/Параноидно-шизоидная позиция (А).md",
+    "вариант А — карточки/Депрессивная позиция (А).md",
+    "GraphNotes/Пример карточки.md",
     "GraphNotes/GraphNotes.md",
+    "GraphNotes/Ризома.md",
+    "Читай меня.md",
     "источники.md",
     "GraphNotes.md",
     "Ночная проврка.md",
