@@ -1,0 +1,8 @@
+#оппозиция 
+- **Carlo Bonomi (2016)** — _The Freud–Ferenczi controversy in light of Emma Eckstein’s circumcision_. Разбирает травму Эммы Экштейн как «слепое пятно» на фоне спора о реальности травмы. [Carlo Bonomi](https://carlobonomi.it/files/Freud-Ferenczi-controversy-in-light-of-E-Eckstein-circumcision.pdf?utm_source=chatgpt.com)
+
+- **Z. G. Knight (2023)** — _Sandor Ferenczi’s concept of the dialogue of unconsciouses_. О взаимной психической работе и её происхождении в экспериментах Ференци; показывает, почему Фрейд настороженно относился к такому «двунаправленному» полю. OA. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10204595/?utm_source=chatgpt.com)
+
+- **D. C. A. Peixoto Junior (2021)** — _Experimentation and prudence in Sándor Ferenczi’s clinic_. Аргумент, что «дерзость» Ференци опиралась на клиническую осмотрительность, а не на беспечность. OA. [Pepsic](https://pepsic.bvsalud.org/scielo.php?pid=S0103-56652021000300007&script=sci_arttext&utm_source=chatgpt.com)
+
+- **Latham, T. (2024)** — _Ferenczi’s “Confusion of Tongues” Theory of Trauma: A Relational Neurobiological Perspective_. Современное переосмысление «Смешения языков» с опорой на нейробиологию — полезно, чтобы увидеть, почему его позиция всё сильнее расходилась с Фрейдом. DOI: 10.1080/00332828.2024.2374215. [UNTIDAR Journal](https://journal.untidar.ac.id/index.php/metathesis/article/view/384?utm_source=chatgpt.com)

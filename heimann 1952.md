@@ -1,0 +1,1 @@
+Heimann P (1952). Certain functions of introjection and projection in early infancy. In: Klein M, Heimann P, Isaacs S, Riviere J, editors. Developments in psychoanalysis, 122–68. London: Hogarth.
